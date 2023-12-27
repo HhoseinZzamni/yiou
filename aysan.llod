@@ -1,1 +1,2 @@
-if n>
+if n>5
+then i=5
