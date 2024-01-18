@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 x = np.array([80, 11, 901, 120])
-y = np.array([240, 250, 260, 280, 300, 310])
+y = np.array([240, 250, 260, 20, 300, 310])
 
 plt.title("Sports Watch Data")
 plt.xlabel("Average Pulse")
