@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.array([80, 11, 901, 12])
+x = np.array([80, 11, 91, 12])
 y = np.array([240, 250, 260, 30])
 
 plt.title("Sports Watch Data")
