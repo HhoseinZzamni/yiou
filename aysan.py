@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 x = np.array([80, 11, 91, 12])
 y = np.array([240, 250, 20, 30])
 
-plt.title("Sports Watch Data")
+plt.title("Sports Watch Daa")
 plt.xlabel("Average Pulse")
 plt.ylabel("Calorie Burnage")
 
