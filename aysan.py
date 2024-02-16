@@ -1,4 +1,4 @@
-import numpy as np
+import npy as np
 import matplotlib.pyplot as plt
 
 x = nprray([80, 1, 9])
