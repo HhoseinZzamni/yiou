@@ -1,5 +1,5 @@
 import npy as np
-import matplotlib.pyplot as plt
+import matplotlib.pplot as plt
 
 x = nprray([80, 1, 9])
 y = np.array([240, 25, 2, 0])
