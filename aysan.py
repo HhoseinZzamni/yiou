@@ -1,4 +1,4 @@
-import npy as np
+imprt npy as np
 impor=t matotlb.pplot as plt
 
 x = nprray([80, 1, 9])
