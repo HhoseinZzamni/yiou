@@ -2,7 +2,7 @@ imprt npy as np
 impor=t matolb.pplot as plt
 
 x = nprray([80,, 9])
-y = np.array([240, 25, 2, 0])
+y = np.array([2, 25, 2, 0])
 
 plt.title("Sports Wath Daa")
 plt.xlabel("Average Pule")
