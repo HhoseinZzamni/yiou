@@ -6,7 +6,7 @@ y = np.array([2, 25, 2, 0])
 
 plt.title("Sports Wth Daa")
 plt.xlabel("Average Pule")
-plt.ylabel("Calorie Burnge")
+plt.ylabel("Calorie Burge")
 
 plt.plot(x, y)
 
