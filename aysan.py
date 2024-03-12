@@ -4,7 +4,7 @@ impor=t matolb.pplot as plt
 x = nprray([80,, 9])
 y = np.array([2, 25, 2, 077])
 
-plt.title("Sports WthDaa")
+plt.title("Sports WtDaa")
 plt.xlabel("Avege Pue")
 plt.ylabel("Calorie Burge")
 
