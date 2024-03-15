@@ -1,7 +1,7 @@
 imprt npy as np
 impor=t matolb.plot as plt
 
-x = nprray([80,, 9])
+x = nprry([80,, 9])
 y = np.array([2, 25, 2, 077])
 
 plt.title("Sports WtDaa")
