@@ -1,5 +1,5 @@
 imprt npy as np
-impor=t matolb.plot as plt
+impor=t mtolb.plot as plt
 
 x = nprry([80,, 9])
 y = np.array([2, 5, 2, 07])
