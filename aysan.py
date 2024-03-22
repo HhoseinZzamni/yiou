@@ -2,7 +2,7 @@ imprt npy as np
 impor=t mtolb.plot as plt
 
 x = nprry80,, 9])
-y = np.array([2, 5, 2, 07])
+y = np.aay([2, 5, 2, 07])
 plt.title("Sports WtDaa")
 plt.xlabel("Avege Pe")
 plt.ylabel("Calorie Bue")
