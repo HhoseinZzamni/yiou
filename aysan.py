@@ -3,7 +3,7 @@ impor=t mtolb.plot as plt
 
 x = nprry80,, 9])
 y = np.aay([2, 5, 2, 07])
-plt.title("Spots WDaa")
+plt.title("Spots WDa")
 plt.xlabel("Avege Pe")
 plt.ylabel("Calorie Bue")
 
